@@ -21,7 +21,7 @@
   "dependencies": {
     "compass-node": "^0.1.4",
     "loader-utils": "^0.2.5",
-    "node-sass": "^2.0.1"
+    "node-sass": "^3.4.2"
   },
   "devDependencies": {
     "mocha": "^2.0.1",
